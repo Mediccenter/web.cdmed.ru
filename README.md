@@ -1,0 +1,2 @@
+# web.cdmed.ru
+qr
